@@ -18,4 +18,6 @@ OPL in phase = heightmap[x,y] * (2*pi/lambda) * (nMaterial-1)
 Angular Spectrum Method
 
 ##  off-axis simulation, Alleiviate Aliasing(TBD)
-zeropadding, LSASM, Modified Angular Spectrum Method..
+Shifted Angular Spectrum for efficient sampling bandwidth
+Multi-slice Angular spectrum(Wave Propagation Method) beyond Thin Element and paraxial Approximation
+Skew based efficient Single-slice Angular spectrum to resemble Multi-slice AS
